@@ -64,4 +64,4 @@ Sistema completo no console com as seguintes funcionalidades:
 
 ## 📋 Menu Principal
 
-O sistema funciona em loop (`while`) até o usuário sair:
+O sistema funciona em loop (`while`) até o usuário sair.
