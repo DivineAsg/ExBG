@@ -1,38 +1,83 @@
-# 💻 Exercícios de Programação e Algoritmo
+# 🐍 Exercícios 29–32 | Depuração e Tratamento de Erros
 
-Repositório com exercícios desenvolvidos na disciplina de **Programação e Algoritmo**, utilizando a linguagem Python.
-
----
-
-## 🏫 Instituição
-**ETEC Basilides de Godoy**
+Este branch reúne os exercícios 29 a 32, com foco em depuração, tratamento de erros e correção de problemas comuns em Python.
 
 ---
 
-## 👨‍🎓 Aluno
-**Arthur Santana Guerra**
+# 🧠 Objetivo Geral
+
+Praticar conceitos fundamentais de programação utilizando Python:
+
+* Tratamento de erros (`try / except`)
+* Validação de dados
+* Índices em listas
+* Lógica matemática
+* Conversão de tipos
+* Depuração com `print()`
+* Estruturas de repetição
+* Entrada de dados com `input()`
 
 ---
 
-## 📌 Objetivo
+# 📌 Exercício 29 — Corrigir Erro de Execução (ValueError)
 
-Este repositório tem como objetivo armazenar e organizar exercícios práticos de lógica de programação, desenvolvendo habilidades como:
+✔ O programa apresentava erro quando o usuário digitava texto em vez de número.
 
-- Lógica de programação
-- Estruturas de decisão
-- Estruturas de repetição
-- Funções
-- Manipulação de dados
-- Introdução à Programação Orientada a Objetos (POO)
+### Conceitos praticados
 
----
-
-## 🐍 Linguagem utilizada
-
-- Python
+* `try`
+* `except`
+* `ValueError`
+* `int()`
 
 ---
 
-## 📂 Estrutura do repositório
+# 📌 Exercício 30 — Corrigir Erro de Índice (IndexError)
 
-- Os exercícios são separados por Branches.
+✔ O programa podia acessar posições inválidas da lista.
+
+### Conceitos praticados
+
+* listas
+* `len()`
+* validação de índice
+* `IndexError`
+
+---
+
+# 📌 Exercício 31 — Corrigir Erro Lógico
+
+✔ Correção da fórmula da média aritmética.
+
+### Conceitos praticados
+
+* operadores matemáticos
+* precedência matemática
+* variáveis numéricas
+* lógica de cálculo
+
+---
+
+# 📌 Exercício 32 — Depuração com print()
+
+✔ O sistema precisava somar 5 números corretamente.
+
+### Conceitos praticados
+
+* `for`
+* `range()`
+* conversão de tipos
+* depuração com `print()`
+* soma acumulativa
+
+---
+
+# 🧱 Estrutura dos Exercícios
+
+Os exercícios trabalham principalmente com:
+
+* entrada de dados no console
+* validação de informações
+* correção de erros
+* lógica de programação
+* depuração de código
