@@ -4,6 +4,19 @@ Este branch reúne os exercícios 33 a 36, com foco em utilização do `pip`, in
 
 ---
 
+# 🧠 Objetivo Geral
+
+Praticar conceitos importantes relacionados ao gerenciamento de pacotes no Python:
+
+* utilização do terminal
+* uso do `pip`
+* instalação de bibliotecas externas
+* importação de módulos
+* execução de arquivos Python
+* resolução de erros de importação
+
+---
+
 # 📌 Exercício 33 — Verificar funcionamento do pip
 
 ✔ Verificação da versão do `pip`.
